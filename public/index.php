@@ -4,13 +4,13 @@ header("Content-Security-Policy: frame-src 'self' https://drive.google.com https
 
 // Simple router
 
-require_once '../app/Controllers/TestController.php';
-require_once '../app/Controllers/WritingController.php';
+require_once __DIR__ . '/../app/Controllers/TestController.php';
+require_once __DIR__ . '/../app/Controllers/WritingController.php';
 
 // Check if this is first visit (no skill parameter)
 if (!isset($_GET['skill'])) {
     // Show welcome page
-    require_once '../app/Views/welcome.php';
+    require_once __DIR__ . '/../app/Views/welcome.php';
     exit;
 }
 
