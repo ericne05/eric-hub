@@ -1,0 +1,10 @@
+RewriteEngine On
+
+# Redirect to index.php if file doesn't exist
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php [QSA,L]
+
+# Allow access to CSS, JS, images
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^(css|js|images)/(.*)$ $0 [L]

@@ -1,0 +1,38 @@
+[TEST 2 - PART 1]
+Type: Sentence Building
+Context: Rewrite the following sentences using the given words.
+
+Question 1: Both/ father/ I/ love/ sailing.
+Answer: Both my father and I love sailing.
+
+Question 2: Grandparents/ give/ my father/ first boat/ but/ he/ not/ have/ it now.
+Answer: My grandparents gave my father his first boat, but he does not have it now.
+
+Question 3: Father/ want/ me/ join/ sailing course/ local sailing school.
+Answer: My father wants me to join a sailing course at the local sailing school.
+
+Question 4: I/ take/ first lesson/ last week.
+Answer: I took my first lesson last week.
+
+Question 5: It/ difficult/ but/ very/ interesting.
+Answer: It was difficult but very interesting.
+
+[TEST 2 - PART 2]
+Type: Writing Task
+Context: A friend, Eva, borrowed your rucksack two weeks ago and hasn't returned it. Write a note to Eva. In your note, you should: remind her that she borrowed your rucksack, ask her to return it, explain why you need it.
+
+Sample Answer:
+Hi Eva,
+You borrowed my rucksack two weeks ago. Please can you return it to me soon? I need it because I am going on a trip this weekend. Let me know when you can bring it.
+Thanks,
+[Your Name]
+
+[TEST 2 - PART 3]
+Type: Writing Task
+Context: You have just bought some new clothes. Write an email to your friend, Alex. In your email, you should: tell Alex what clothes you have bought, say where you bought the clothes from, explain why you needed to buy these clothes.
+
+Sample Answer:
+Hi Alex,
+I have just bought a pair of blue jeans and a cool black jacket. I bought them at the market in the city center. I needed to buy them because I am going on holiday next week.
+Best,
+[Your Name]

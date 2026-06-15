@@ -1,0 +1,135 @@
+[TEST 4 - PART 1]
+Audio: test_4_part_1.mp3
+Question 1: Which biscuits will the man buy?
+A. square biscuits filled with cream
+B. round biscuits filled with cream
+C. square biscuits filled with chocolate
+Correct: C
+
+Question 2: What is Andrew going to do in the evening?
+A. go to a music concert
+B. play tennis
+C. go to the cinema
+Correct: C
+
+Question 3: Where will the family get on the bus?
+A. near the lake
+B. near the river
+C. in the village
+Correct: C
+
+Question 4: What will the woman give the man?
+A. a pen
+B. a postcard
+C. a stamp
+Correct: A
+
+Question 5: Which is Richard's present?
+A. flowers
+B. a CD
+C. a plant
+Correct: C
+
+[TEST 4 - PART 2]
+Audio: test_4_part_2.mp3
+Question 6: Where has Sally just been?
+A. at the bike shop
+B. at the supermarket
+C. at the library
+Correct: C
+
+Question 7: Which picture does the woman prefer?
+A. the one of a fishing boat
+B. the one of horses
+C. the one of the child on grass
+Correct: B
+
+Question 8: Why is Colin late?
+A. because he played football with his friends
+B. because he waited for the bus
+C. because he did homework
+Correct: A
+
+Question 9: How much do the woman's sports socks cost?
+A. 2.50
+B. 3.99
+C. 5.00
+Correct: B
+
+Question 10: Which petrol station will the woman go to?
+A. next to the bridge
+B. at the roundabout
+C. opposite the cinema
+Correct: B
+
+[TEST 4 - PART 3]
+Audio: test_4_part_3.mp3
+Type: Fill in the blank
+Context: CROWN ENGLISH LANGUAGE SCHOOL
+
+Question 11: Next course begins (Day: ...)
+Correct: Monday
+
+Question 12: Date (... 4th)
+Correct: January
+
+Question 13: Classes usually begin at
+Correct: 9:15
+
+Question 14: Address (... Bridge Road)
+Correct: 24
+
+Question 15: Next to
+Correct: newsagent's
+
+[TEST 4 - PART 4]
+Audio: test_4_part_4.mp3
+Question 16: John wants to buy
+A. a tent
+B. a rucksack
+C. a bag
+Correct: B
+
+Question 17: The Weekender Plus is
+A. 40cm by 60cm
+B. 70cm by 90cm
+C. 60cm by 90cm
+Correct: C
+
+Question 18: The shop only sells rucksacks made of
+A. nylon
+B. plastic
+C. canvas
+Correct: C
+
+Question 19: John is going to buy a
+A. red and green rucksack
+B. blue and white rucksack
+C. green and blue rucksack
+Correct: B
+
+Question 20: The rucksack costs
+A. £29.95
+B. £39.95
+C. £13.95
+Correct: B
+
+[TEST 4 - PART 5]
+Audio: test_4_part_5.mp3
+Type: Fill in the blank
+Context: YELLOW BUSES TO LONDON
+
+Question 21: Monday - Saturday office opens at
+Correct: 8 a.m
+
+Question 22: Number of buses to London (... each day)
+Correct: 4
+
+Question 23: Buy tickets from (... or on the bus)
+Correct: driver
+
+Question 24: Student return ticket costs (£...)
+Correct: 12
+
+Question 25: For sale on bus (... and drink)
+Correct: sandwiches

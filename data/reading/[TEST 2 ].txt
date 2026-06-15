@@ -1,0 +1,148 @@
+[TEST 2 - PART 1]
+Context: Read the following passage. Choose the best word for each space. For 8 Questions (questions 1-8), choose the correct letter (A, B or C). --- Wool comes from sheep and other animals like goats and rabbits. Over a million tonnes of wool is produced every year, of (1)_______ goes into clothes. The wool that is used (2)_______ comes from Australian Merino sheep. Their wool is good for baby clothes, as it is soft, (3)_______ babies warm, and it can (4)_______ their bodies. When wool is cut from the sheep, it contains a high level of a valuable oil, so before the wool is used, it must be cleaned. The (5)_______ way to do this is by putting the wool in hot water. The animal that (6)_______ from the wool is widely used in products like soap. Sheep were first used by humans several thousand years (7)_______ but it is believed that this was for meat rather than wool. When people developed a way of cutting the wool from sheep, it (8)_______ a more important material.
+
+Question 1: (1)
+A. what
+B. whose
+C. which
+Correct: C
+
+Question 2: (2)
+A. mostly
+B. little
+C. more
+Correct: A
+
+Question 3: (3)
+A. stays
+B. helps
+C. keeps
+Correct: C
+
+Question 4: (4)
+A. protect
+B. save
+C. care
+Correct: A
+
+Question 5: (5)
+A. simplest
+B. clearest
+C. nearest
+Correct: A
+
+Question 6: (6)
+A. removing
+B. remove
+C. removed
+Correct: C
+
+Question 7: (7)
+A. ago
+B. before
+C. long
+Correct: A
+
+Question 8: (8)
+A. arrived
+B. had
+C. became
+Correct: C
+
+[TEST 2 - PART 2]
+Type: Matching
+Context: Which notice (A-J) says this (9-16)? For questions 9-16, choose the correct letter. --- A. This month only - 60% discount on all pet care magazines --- B. Special offer! Free toy with every box of dog food --- C. DOG FOUND - Male beagle found 11:30 am on Tuesday April on Pine Street. Call Tom on 986 378 --- D. NO PETS ALLOWED - Service animals specifically trained to aid a person with disability are welcome --- E. Pete's Pets - 8 a.m. - 6 p.m. weekdays, 8a.m. - midday weekends --- F. Wanted - Sales Assistants, Saturday to Sunday 11 a.m. - 6p.m. £6 each --- G. Japanese goldfish for sale - £5 each --- H. ALL CUSTOMERS DURING BUILDING WORK USE SIDE DOOR ONLY --- I. Bags of animal food too heavy? Our staff will carry them for you --- J. PET FOOD SHOP - Mon-Fri: 8:00 a.m. - 5p.m. Closed at weekends --- K. Animal World - Free parking for customers (Monday - Saturday)
+
+Question 9: You shouldn't go in through the front entrance of the shop.
+Correct: H
+
+Question 10: Extra staff are needed here for weekend work.
+Correct: F
+
+Question 11: Contact this person to get your pet back.
+Correct: C
+
+Question 12: Please ask the shop assistants if you need any help.
+Correct: I
+
+Question 13: You cannot buy a pet here on Saturday or Sunday afternoon.
+Correct: E
+
+Question 14: These are cheaper at the moment.
+Correct: A
+
+Question 15: You cannot buy food for pets here on Saturdays and Sundays.
+Correct: J
+
+Question 16: Only disabled people can go with pets.
+Correct: D
+
+[TEST 2 - PART 3]
+Type: Fill in the blank
+Context: Read the notice and the email. Fill in Lin's notes with the correct information. The information should be NO MORE THAN THREE words. --- [LEFT COLUMN] --- REDWOOD CINEMA --- Special showings this weekend --- Rosy's Story: --- Saturday 8 p.m. --- Sunday 5p.m. --- Storm: --- Saturday 8 p.m. --- Sunday 7 p.m. --- Adults: £8.00 --- Students/Children: £5.00 --- [RIGHT COLUMN] --- From: Inés --- To: Lin --- My sister's visiting this weekend, so there'll be three of us going to the cinema instead of two. I've already seen Storm, so let's see the other film. Let's go in the evening, because we need to study during the day. Could you buy the tickets, as you live nearer? Don't forget to show your university ID so we get in cheaper.
+
+Question 17: Cinema
+Correct: Redwood
+
+Question 18: Film
+Correct: Rosy's Story
+
+Question 19: Day
+Correct: Sunday
+
+Question 20: Time
+Correct: 5 p.m.
+
+Question 21: Number of tickets to get
+Correct: 3
+
+Question 22: Price per person
+Correct: £5.00
+
+Question 23: Need to bring
+Correct: university ID
+
+[TEST 2 - PART 4]
+Context: Read the following passage about a former 800 metres Olympic champion. Choose A, B or C to answer the questions. --- In 1988, Maria Mutola was playing football as the only girl in an all-boys team in a local competition in Mozambique. 'We won!' she said. 'At first no one thought it was a problem that I was a girl. But then the team we beat complained.' --- The story appeared in a local newspaper and José Craveirinha, who had encouraged other African athletes, learnt about Maria. He went to meet her and found her kicking a ball around outside the football club. He realised immediately that she was fast. He talked to me about athletics. I had no idea what he meant. The only sport I knew about was football. Then he bought me running shoes and took me training. It was such hard work and I really ached but José visited her parents and persuaded them she could be successful and this would help end their poverty. They agreed to let him take her away to train. --- In 1991, she finally accepted an invitation to train in the United States. She had refused previously because she knew she would miss her family. Her background was unlike those of the girls she met in the US. She explains, 'In the US, the athletes I met worried about their parents having enough to eat, they worried about dresses and make-up. They knew very little about me and even less about my problems. But I knew I was lucky to be there. The trainers were brilliant and I learnt a lot.' --- Today, Maria still runs and for most of the year she lives happily in South Africa with her mother.
+
+Question 24: What is the purpose of the passage?
+A. to persuade more Africans to take up athletics
+B. to describe how Maria became a top athlete
+C. to give information about Mozambique
+Correct: B
+
+Question 25: How did José get to know Maria?
+A. He met her in a local football competition
+B. He read an article about her in a newspaper.
+C. An African athlete introduced her to him.
+Correct: B
+
+Question 26: When José first introduced Maria to athletics, she
+A. didn't know what was involved
+B. was worried about being injured.
+C. didn't think her family would agree.
+Correct: A
+
+Question 27: Why did Maria not agree to go to the US at first?
+A. because her legs really ached.
+B. because she thought she would feel homesick.
+C. because she did not like people there.
+Correct: B
+
+Question 28: How does Maria feel of the opportunity to go to the US?
+A. worried
+B. problematic
+C. happy
+Correct: C
+
+Question 29: What does Maria say about the girls she met in the US?
+A. Their life experiences were very different from hers.
+B. They were not as good as her.
+C. They did not show enough respect for the trainers.
+Correct: A
+
+Question 30: Where does Maria spend most of her time?
+A. in Mozambique
+B. in the US
+C. in South Africa
+Correct: C

@@ -1,0 +1,148 @@
+[TEST 3 - PART 1]
+Context: Read the following passage. Choose the best word for each space. For 8 Questions (questions 1-8), choose the correct letter (A, B or C). --- Drawing has always (1)_______ a popular hobby. Young children draw (2)_______ a pencil as soon as they can hold one. Drawing is often seen as a special skill, and it is (3)_______ that some people seem to draw perfect pictures without any effort. Yet drawing, like writing, can be (4)_______ you can draw accurately if you work really hard at it. Drawing is first of all about looking carefully. It sounds easy to say all you (5)_______ to do is look at things, but it really is that simple. The best way to draw a familiar subject is to imagine that you are looking at it for the first (6)_______. Nowadays there (7)_______ more courses and materials available than ever before, which means that you can experiment (8)_______ your skills. The only limit is your imagination.
+
+Question 1: (1)
+A. be
+B. been
+C. being
+Correct: B
+
+Question 2: (2)
+A. with
+B. by
+C. in
+Correct: A
+
+Question 3: (3)
+A. true
+B. actual
+C. exact
+Correct: A
+
+Question 4: (4)
+A. discovered
+B. made
+C. learnt
+Correct: C
+
+Question 5: (5)
+A. should
+B. need
+C. can
+Correct: B
+
+Question 6: (6)
+A. period
+B. day
+C. time
+Correct: C
+
+Question 7: (7)
+A. is
+B. are
+C. be
+Correct: B
+
+Question 8: (8)
+A. to improve
+B. improving
+C. improved
+Correct: B
+
+[TEST 3 - PART 2]
+Type: Matching
+Context: Which notice (A-J) says this (9-16)? For questions 9-16, choose the correct letter. --- A. Arabic and French dictionaries for sale - Great prices! Contact David --- B. Closed for cleaning - Please use toilets upstairs near the café --- C. Student café - Hot meals served until 10 p.m. everyday --- D. Learning Centre - Every student can borrow up to 3 books --- E. With every coffee, get a sandwich for £1! (normal price £2.50) --- F. Football practice - Wednesday 7 p.m. - 8 p.m. Call Bryan on 0489 967622 --- G. College Gym - Join now for 12 months And only pay for 10 --- H. All visitors - Please report to the school office on arrival --- I. Staff Room - No unauthorized entry --- J. VNU Public library - Due to Covid-19, the library will be closed starting tomorrow, March 16 until further notice --- K. College Café - Sorry, cash only - no credit cards
+
+Question 9: People need to register to enter this place.
+Correct: H
+
+Question 10: This is cheaper than usual if you buy something else.
+Correct: E
+
+Question 11: If you become a member, you will get a discount.
+Correct: G
+
+Question 12: Students cannot enter this room.
+Correct: I
+
+Question 13: If you want to buy a book, speak to this person.
+Correct: A
+
+Question 14: Contact this person if you want to play this sport.
+Correct: F
+
+Question 15: This place is open in the evenings.
+Correct: C
+
+Question 16: You cannot enter here at the moment.
+Correct: J
+
+[TEST 3 - PART 3]
+Type: Fill in the blank
+Context: Read the notice and the email. Fill in Sophie's notes with the correct information. The information should be NO MORE THAN THREE words. --- [LEFT COLUMN] --- Hill's bookshop --- Just arrived! --- 'Better Photos', by David Fox, writer of last year's best-selling book 'Learn Photography' --- Usual price: £15.00 --- Buy here for £12.50 --- "This book's great" - said fashion photographer Jenny Clarke --- [RIGHT COLUMN] --- From: Ben --- To: Sophie --- My mum wants David Fox's latest book for her birthday. Can you get it from the bookshop near you because it's cheaper there? Her birthday's on June 11, so I need it on June 10. I'll drop by your house to collect it as I will leave the office late then. If there's a problem, call me at the office on 796 861. My new mobile number is 07920 3449.
+
+Question 17: Name of bookshop
+Correct: Hill's
+
+Question 18: Name of book to buy
+Correct: Better Photos
+
+Question 19: Price I'll pay
+Correct: £12.50
+
+Question 20: Writer of book
+Correct: David Fox
+
+Question 21: Ben's work number
+Correct: 796 861
+
+Question 22: When Ben gets the book
+Correct: June 10
+
+Question 23: Where Ben gets the book
+Correct: my house
+
+[TEST 3 - PART 4]
+Context: Read the following passage. Choose A, B or C to answer the questions. --- Kal Kaur Rai has always been interested in fashion and has just won the award for Young Achiever of the Year at the Asian Business Awards. Ever since she was a child, she has drawn and designed patterns. She never told her hard-working parents, who ran a corner shop, that she wanted to turn her hobby into a career. She thought they expected her to go into a more traditional business, so she went to university to do a management degree. After university, she moved to London and worked in an advertising agency. She had to attend industry events and didn't often like the designer clothes she liked. She started making skirts and tops for herself. When her boss saw her clothes, they best encouraged her to make things for them. She then found a small shop in London selling up her designs on a sale or return basis. They were very popular and nothing came back. Her friends encouraged her to leave her advertising job, take out a £20,000 loan and begin her own womenswear label. --- Kal's parents were not angry about her career change and said they would support her, which really pleased her. Her clothes are now on sale in over 70 stores and her business has an income of over £500,000. Her clothes appear in fashion magazines, she designs for pop stars and she has just gained public recognition by winning this award. It's been a long way but she hasn't forgotten where she is extremely lucky. 'What I do is my hobby - and I get paid for it! But remember, I've worked hard for this.'
+
+Question 24: What is the purpose of the passage?
+A. to encourage fashion designers to make better business plans
+B. to give details of recent changes in the fashion industry
+C. to explain how a woman set up a fashion business
+Correct: C
+
+Question 25: What did Kal dream to become when she was little?
+A. a clothes designer
+B. a business woman
+C. a manager
+Correct: A
+
+Question 26: What is true about Kal's parents?
+A. They did not know that Kal wanted to work in fashion.
+B. They asked Kal to do a management course.
+C. They did not like Kal to work in fashion.
+Correct: A
+
+Question 27: Why did Kaur make clothes at first?
+A. because she earned very little in her advertising job.
+B. because she could not afford her favourite designer clothes.
+C. because it has been her dream.
+Correct: B
+
+Question 28: When did Kal decide to change her job?
+A. when she lost her job at the advertising agency
+B. when all her clothes in the London shop were sold.
+C. her friends asked her to make clothes for them.
+Correct: B
+
+Question 29: How much did Kal borrow to start her own business?
+A. £20,000
+B. £70,000
+C. £500,000
+Correct: A
+
+Question 30: What does Kal say about her career?
+A. She plans to open more stores.
+B. She believes that she deserves her success.
+C. She doesn't like designing for famous people.
+Correct: B

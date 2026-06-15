@@ -1,0 +1,148 @@
+[TEST 4 - PART 1]
+Context: Read the following passage. Choose the best word for each space. For 8 Questions (questions 1-8), choose the correct letter (A, B or C). --- Example: Susan is (O)........, TV now. O. A. watching B. looking C. seeing --- The Channel Islands are nearer to France than to England and have a long and interesting history. The first people to live on them (1) ......... the Romans. In the 12th century, the French built Castle Cornet on Guernsey, the second (2) ......... island in the group. The Channel Islands (3) ......... part of the British Isles in 1204. Several famous Frenchmen visited (4) ......... islands in the 19th century. Victor Hugo, the writer, had a summer house on Guernsey, and the artist Renoir painted (5) ......... beautiful pictures of places on the islands. They have changed very little (6) ......... then. The weather is warm and pleasant and (7) ......... isn't usually any snow in winter. You can buy Channel Island flowers and vegetables (8) ......... January to December.
+
+Question 1: (1)
+A. was
+B. been
+C. were
+Correct: C
+
+Question 2: (2)
+A. large
+B. larger
+C. largest
+Correct: C
+
+Question 3: (3)
+A. becomes
+B. became
+C. becoming
+Correct: B
+
+Question 4: (4)
+A. these
+B. its
+C. his
+Correct: A
+
+Question 5: (5)
+A. much
+B. many
+C. all
+Correct: B
+
+Question 6: (6)
+A. during
+B. before
+C. since
+Correct: C
+
+Question 7: (7)
+A. there
+B. here
+C. it
+Correct: A
+
+Question 8: (8)
+A. from
+B. until
+C. in
+Correct: A
+
+[TEST 4 - PART 2]
+Type: Matching
+Context: Which notice (A-J) says this (9-16)? For questions 9-16, choose the correct letter. --- EXAMPLE: 0. We are only open in the afternoons. K. Museum open 1-6 p.m. --- A. PARKING FOR BUSES ONLY --- B. No talking in the library please --- C. Sports centre – now open all day! --- D. GUEST HOUSE - Rooms available --- E. No tickets left for tonight's film --- F. Left luggage office - Open 24 hours --- G. French classes - Start next week --- H. CASTLE GARDENS - Entrance free --- I. LOWER PRICES - THIS WEEKEND ONLY - For skirts and shirts --- J. SPECIAL TODAY - Omelette and chips! - Children half price!
+
+Question 9: You must not speak to anyone here.
+Correct: B
+
+Question 10: You can't go to this cinema this evening.
+Correct: E
+
+Question 11: You can stay the night here.
+Correct: D
+
+Question 12: You can't leave your car here.
+Correct: A
+
+Question 13: You can buy some clothes at a cheaper cost for a short time.
+Correct: I
+
+Question 14: You can begin studying soon.
+Correct: G
+
+Question 15: You don't have to pay to go in.
+Correct: H
+
+Question 16: You can leave your suitcase here at any time.
+Correct: F
+
+[TEST 4 - PART 3]
+Type: Fill in the blank
+Context: Read the notice and the email. Fill in Hilary's notes with the correct information. The information should be NO MORE THAN THREE words. --- [LEFT COLUMN] --- NOTICES: --- H. CASTLE GARDENS - Entrance free --- I. LOWER PRICES - THIS WEEKEND ONLY - For skirts and shirts --- J. SPECIAL TODAY - Omelette and chips! - Children half price! --- VICTORIA SPONGE CAKE INGREDIENTS: 200g sugar, 200g butter, 200g flour, 3 large eggs, 2 tablespoons cocoa powder --- Method: 1. Mix sugar & butter together, 2. Add flour, eggs and cocoa, 3. Bake for 45 minutes gas mark, 4. Serve with chocolate sauce cream --- [RIGHT COLUMN] --- Hilary's notes: 17: 200g of, 18: 3 large, 19: Amount of cocoa powder, 20: Mix together, 21: Next add, 22: Cook for, 23: Eat with
+
+Question 17: 200g of
+Correct: sugar
+
+Question 18: 3 large
+Correct: eggs
+
+Question 19: Amount of cocoa powder
+Correct: 2 tablespoons
+
+Question 20: Mix together
+Correct: sugar & butter
+
+Question 21: Next add
+Correct: flour eggs cocoa
+
+Question 22: Cook for
+Correct: 45 minutes
+
+Question 23: Eat with
+Correct: chocolate sauce cream
+
+[TEST 4 - PART 4]
+Context: Read the following passage about a supermarket manager. Choose A, B or C to answer the questions. --- The life of a supermarket manager --- Jonathan Matthews left school at seventeen, went to college and then worked in his father's mini-market. After two years, he went to work for Bargain Foods and then he joined Saver Mall as a trainee manager. Three years later he got his present job as a supermarket manager with Saver Mall. This is what he told us about his job: --- "The supermarket where I am manager is in west London but I spend most of my time travelling by road to Saver Mall supermarkets all over Britain. I need to see things in our other supermarkets. I also go to lots of meetings. --- My work hours change every week because Saver Mall is open 24 hours a day. Last week I worked from 3 p.m. to 11 p.m. but this week I need to check my emails. Sometimes I go to different countries to check how supermarkets are doing. That's my favourite part of the job! But I like my work in London too. Travelling can be very hard work. When I get back from a journey, I usually go straight to bed. I earn quite good money and I'm happy working for Saver Mall."
+
+Question 24: Jonathan's first job was
+A. at college
+B. with Bargain Foods
+C. in a mini market
+Correct: C
+
+Question 25: When Jonathan first worked for Saver Mall, he was
+A. an assistant
+B. a manager
+C. a trainee manager
+Correct: C
+
+Question 26: Jonathan does most of his work
+A. in London
+B. in other countries
+C. in other supermarkets
+Correct: C
+
+Question 27: Jonathan's working hours
+A. are different each week
+B. are 3 p.m. to 11 p.m.
+C. are 7 a.m. to 3 p.m.
+Correct: A
+
+Question 28: At the beginning of each day, Jonathan
+A. goes to a meeting
+B. checks other supermarkets
+C. reads messages
+Correct: C
+
+Question 29: What does Jonathan like best?
+A. checking emails
+B. going to different countries
+C. travelling by road
+Correct: B
+
+Question 30: The first thing Jonathan does after a journey is
+A. have a meal
+B. go to his office
+C. go to bed
+Correct: C

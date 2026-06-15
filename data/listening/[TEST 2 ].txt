@@ -1,0 +1,135 @@
+[TEST 2 - PART 1]
+Audio: test_2_part_1.mp3
+Question 1: How much did John's football shirt cost?
+A. £13.25
+B. £30.25
+C. £35.25
+Correct: A
+
+Question 2: Which cake does the woman want?
+A. the round white cake
+B. the square white cake
+C. the square chocolate cake
+Correct: A
+
+Question 3: What size shoe does the man take?
+A. 2
+B. 8
+C. 9
+Correct: C
+
+Question 4: When is Anna's birthday?
+A. 13 September
+B. 30 September
+C. 13 November
+Correct: B
+
+Question 5: What is Petros going to buy?
+A. a T-shirt
+B. a CD
+C. a book
+Correct: B
+
+[TEST 2 - PART 2]
+Audio: test_2_part_2.mp3
+Question 6: Where will the man and woman meet?
+A. outside the cinema
+B. at the fish and chip shop
+C. in front of the bank
+Correct: C
+
+Question 7: Which picture does the man like most?
+A. the one with animals
+B. the one with the boats
+C. the one of the village houses
+Correct: C
+
+Question 8: What does the man ask for?
+A. pizza and orange juice
+B. pizza and water
+C. pizza and coke
+Correct: A
+
+Question 9: What is the weather like now?
+A. cloudy
+B. sunny
+C. rainy
+Correct: B
+
+Question 10: How many bread rolls does the woman want?
+A. 6
+B. 13
+C. 30
+Correct: A
+
+[TEST 2 - PART 3]
+Audio: test_2_part_3.mp3
+Type: Fill in the blank
+Context: SUMMER HOLIDAY JOB - Farm worker
+
+Question 11: Time working day ends ( ... p.m)
+Correct: 2
+
+Question 12: You need to be (... and careful)
+Correct: strong
+
+Question 13: You will earn (£... a week)
+Correct: 300
+
+Question 14: What you must pay for
+Correct: travel
+
+Question 15: Date work begins (... May)
+Correct: 24th
+
+[TEST 2 - PART 4]
+Audio: test_2_part_4.mp3
+Question 16: Where is the new shop?
+A. near the college
+B. outside the town center
+C. opposite the newsagent's
+Correct: C
+
+Question 17: In the shop you cannot buy
+A. clothes
+B. bags
+C. boots
+Correct: B
+
+Question 18: What time does the shop close on a Thursday?
+A. 6 p.m.
+B. 8 p.m.
+C. 10 p.m.
+Correct: B
+
+Question 19: What days does the shop open?
+A. Tuesday to Sunday
+B. Every day
+C. Monday to Friday
+Correct: A
+
+Question 20: What should Suzy's friend do if she wants a job?
+A. phone the manager
+B. go to the shop
+C. write a letter
+Correct: B
+
+[TEST 2 - PART 5]
+Audio: test_2_part_5.mp3
+Type: Fill in the blank
+Context: DAY TRIP TO THE LAKE - North Lake
+
+Question 21: Travel there by
+Correct: train
+
+Question 22: Time to meet (... p.m)
+Correct: 1:15
+
+Question 23: Activities (walking and ...)
+Correct: fishing
+
+Question 24: How much money to take (£...)
+Correct: 12
+
+Question 25: Meet at the end of day at (the ... Hotel)
+Correct: Aster

@@ -1,0 +1,38 @@
+[TEST 4 - PART 1]
+Type: Sentence Building
+Context: Rewrite the following sentences using the given words.
+
+Question 1: The CGV cinema/ near/ shopping mall/ open/ two year/ ago.
+Answer: The CGV cinema near the shopping mall opened two years ago.
+
+Question 2: It/ have/ twelve/ screens.
+Answer: It has twelve screens.
+
+Question 3: tickets/ cost/ less/ during/ week.
+Answer: Tickets cost less during the week.
+
+Question 4: My sister/ see/ great/ new/ film/ there/ last week.
+Answer: My sister saw a great new film there last week.
+
+Question 5: Yesterday/ she/ ask/ me/ book/ tickets/ for/ weekend.
+Answer: Yesterday she asked me to book tickets for the weekend.
+
+[TEST 4 - PART 2]
+Type: Writing Task
+Context: Yesterday you arranged to go to the cinema with Anne, an English friend. Unfortunately, you didn't get to the cinema on time and missed her. Write a note to Anne. In your note, you should: apologize for not meeting her, explain why you were late, suggest meeting another time.
+
+Sample Answer:
+Dear Anne,
+I am sorry I didn't meet you yesterday. I was late because the traffic was terrible. Can we meet this Saturday instead? I promise to be on time. Let me know if you are free.
+Best,
+[Your Name]
+
+[TEST 4 - PART 3]
+Type: Writing Task
+Context: An English friend of yours called Charlie has invited you to go clubbing next Saturday, but you can't go. Write an e-mail to Charlie. In your e-mail, you should: thank him for inviting you, tell him you can't go, suggest meeting another time.
+
+Sample Answer:
+Hi Charlie,
+Thanks for inviting me to go clubbing next Saturday. I am sorry but I can't go because I have to visit my family. Can we meet for coffee on Sunday morning instead?
+See you,
+[Your Name]

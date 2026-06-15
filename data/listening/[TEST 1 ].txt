@@ -1,0 +1,135 @@
+[TEST 1 - PART 1]
+Audio: test_1_part_1.mp3
+Question 1: Where is Mark going at the weekend?
+A. to the river
+B. to the mountains
+C. to the forest
+Correct: A
+
+Question 2: How many students are there at the school?
+A. 100
+B. 600
+C. 700
+Correct: C
+
+Question 3: Where is the hospital?
+A. go straight and turn left after the traffic lights
+B. go straight and turn left before the traffic lights
+C. go straight and turn right before the traffic lights
+Correct: B
+
+Question 4: What must they remember to take?
+A. some camera film
+B. traveler's cheques
+C. plane tickets
+Correct: A
+
+Question 5: What is true about Christina's family?
+A. She is taller than his brother.
+B. She is shorter than his brother.
+C. She is taller than his father.
+Correct: A
+
+[TEST 1 - PART 2]
+Audio: test_1_part_2.mp3
+Question 6: How much was the restaurant bill?
+A. £15
+B. £25
+C. £50
+Correct: C
+
+Question 7: How long was the journey?
+A. 6 hours
+B. 10 hours
+C. 16 hours
+Correct: C
+
+Question 8: What did the man do last night?
+A. watched TV at home
+B. went to the cinema
+C. went to the theatre
+Correct: A
+
+Question 9: How does Stefano usually get to school?
+A. on foot
+B. by car
+C. by bus
+Correct: B
+
+Question 10: How did she hear about the accident?
+A. on the phone
+B. on the radio
+C. in the newspaper
+Correct: A
+
+[TEST 1 - PART 3]
+Audio: test_1_part_3.mp3
+Type: Fill in the blank
+Context: FLAT TO RENT - 25A Green Street
+
+Question 11: Price of flat (£... a month)
+Correct: 825
+
+Question 12: How far from the station (... minutes on foot)
+Correct: 15
+
+Question 13: Number of bedrooms
+Correct: 2
+
+Question 14: Furniture in flat (... and table)
+Correct: Sofa
+
+Question 15: Day to see flat
+Correct: Tuesday afternoon
+
+[TEST 1 - PART 4]
+Audio: test_1_part_4.mp3
+Question 16: Jenny was shown how to make the soup by
+A. her aunt
+B. her friend
+C. her mother
+Correct: A
+
+Question 17: How has Jenny improved the soup?
+A. She adds less water.
+B. She makes it thinner.
+C. She uses bigger cups.
+Correct: A
+
+Question 18: To make it really good, Jenny adds
+A. milk
+B. butter
+C. cream
+Correct: C
+
+Question 19: How long does the soup take to make?
+A. about 5 minutes
+B. about 10 minutes
+C. about 20 minutes
+Correct: C
+
+Question 20: What will they eat next?
+A. fruit cake
+B. pasta
+C. lemon chicken
+Correct: B
+
+[TEST 1 - PART 5]
+Audio: test_1_part_5.mp3
+Type: Fill in the blank
+Context: CARDIFF BIKE RACE - Date: 22nd September
+
+Question 21: Team colour
+Correct: Blue
+
+Question 22: Number of people per team
+Correct: 4
+
+Question 23: Time of race (... a.m)
+Correct: 9.30
+
+Question 24: Food at snack place (... and drink)
+Correct: Cake
+
+Question 25: First prize (a new ...)
+Correct: Tent

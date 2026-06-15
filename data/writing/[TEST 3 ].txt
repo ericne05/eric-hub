@@ -1,0 +1,28 @@
+[TEST 3 - PART 1]
+Type: Sentence Building
+Context: Rewrite the following sentences using the given words.
+
+Question 1: Last week/ I/ go/ Ha Long city/ and/ stay/ Royal Lotus hotel.
+Answer: Last week I went to Ha Long City and stayed at the Royal Lotus Hotel.
+
+Question 2: This/ first time/ that/ I/ be/ here.
+Answer: This is the first time that I have been here.
+
+Question 3: The hotel/ big/ and/ has/ 10 floors.
+Answer: The hotel is big and has 10 floors.
+
+Question 4: It/ important/ book/ room/ in advance.
+Answer: It is important to book a room in advance.
+
+Question 5: My room/ big/ than/ my friend's room.
+Answer: My room was bigger than my friend's room.
+
+[TEST 3 - PART 2]
+Type: Writing Task
+Context: An English friend, Maria, is spending the day at your home next Sunday. You want to tell her what to expect. Write a note to Maria. In your note, you should: tell her who she will meet, say what kind of meal she will have, ask how she would like to spend the day.
+
+Sample Answer:
+Dear Maria,
+You will meet my parents and sister next Sunday. We will have a special lunch with chicken and salad. How would you like to spend the day? We can watch a movie or go for a walk.
+Love,
+[Your Name]

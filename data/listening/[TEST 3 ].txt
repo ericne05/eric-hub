@@ -1,0 +1,135 @@
+[TEST 3 - PART 1]
+Audio: test_3_part_1.mp3
+Question 1: What time will the party start?
+A. at 7
+B. at 9
+C. at 9.30
+Correct: C
+
+Question 2: What is the weather like for Jack's holiday?
+A. rainy
+B. sunny
+C. snowy
+Correct: C
+
+Question 3: Which fruit does the woman buy?
+A. grapes
+B. apples
+C. bananas
+Correct: B
+
+Question 4: How will Tom go to school tomorrow?
+A. by car
+B. by bus
+C. by bicycle
+Correct: C
+
+Question 5: When will Rob have his next driving lesson?
+A. Friday
+B. Saturday
+C. Monday
+Correct: A
+
+[TEST 3 - PART 2]
+Audio: test_3_part_2.mp3
+Question 6: How much did Sue pay for the shirt?
+A. £30
+B. £35
+C. £40
+Correct: B
+
+Question 7: What will Dan do this afternoon?
+A. play football
+B. play a computer game
+C. play tennis
+Correct: B
+
+Question 8: Where is the fish market?
+A. go down the first road on the left and it's on the left
+B. go down the second road on the left and it's on the right
+C. go down the second road on the left and it's on the left
+Correct: B
+
+Question 9: What will the woman eat with her coffee?
+A. some cake
+B. some chocolate
+C. some biscuits
+Correct: C
+
+Question 10: Which man is Laura's English teacher?
+A. He's got dark hair and isn't wearing glasses
+B. He's got dark hair and is wearing glasses
+C. He's got fair hair and is wearing glasses
+Correct: A
+
+[TEST 3 - PART 3]
+Audio: test_3_part_3.mp3
+Type: Fill in the blank
+Context: PLANT FOR MUM - Name of plant: Sweet William
+
+Question 11: Colour of flowers
+Correct: purple
+
+Question 12: Season to see flowers
+Correct: spring
+
+Question 13: Month to put plant outside
+Correct: May
+
+Question 14: Final size of plant (... cm tall)
+Correct: 15
+
+Question 15: Price of plant today (£...)
+Correct: 8
+
+[TEST 3 - PART 4]
+Audio: test_3_part_4.mp3
+Question 16: Which building will the competition be in?
+A. the school
+B. the town hall
+C. the university
+Correct: C
+
+Question 17: How has the team decided to get there?
+A. They will catch a bus.
+B. They will walk.
+C. They will go on the underground.
+Correct: C
+
+Question 18: The total number of questions in the quiz will be
+A. five.
+B. fifteen.
+C. twenty-five.
+Correct: C
+
+Question 19: Tony's favourite area of science is
+A. biology.
+B. chemistry.
+C. physics.
+Correct: C
+
+Question 20: Winners of the competition get
+A. T-shirts.
+B. cinema tickets.
+C. a box of chocolates.
+Correct: B
+
+[TEST 3 - PART 5]
+Audio: test_3_part_5.mp3
+Type: Fill in the blank
+Context: LANGLEY COLLEGE - Day classes start: Wednesday
+
+Question 21: Cost to join sports centre per year (£...)
+Correct: 15
+
+Question 22: Closing time of café (... p.m)
+Correct: 9
+
+Question 23: Name of receptionist (Mrs...)
+Correct: Myer
+
+Question 24: Phone number
+Correct: 9874532
+
+Question 25: Buy a ... from the college office
+Correct: course book

@@ -1,0 +1,38 @@
+[TEST 1 - PART 1]
+Type: Sentence Building
+Context: Rewrite the following sentences using the given words.
+
+Question 1: There/ some/ advertisement/ jobs/ local newspaper.
+Answer: There are some advertisements for jobs in the local newspaper.
+
+Question 2: Fill/ job application form/ not/ take/ you/ long.
+Answer: Filling in the job application form will not take you long.
+
+Question 3: It/ important/ arrive/ work/ on time.
+Answer: It is important to arrive at work on time.
+
+Question 4: Some people/ like/ work/ outdoors/ than/ work/ inside.
+Answer: Some people like working outdoors more than working inside.
+
+Question 5: Some/ company/ give/ staff/ free/ uniforms.
+Answer: Some companies give their staff free uniforms.
+
+[TEST 1 - PART 2]
+Type: Writing Task
+Context: You are going to be absent from your English class next week. Write a note to your English teacher. In your note, you should: explain why you are going to be absent, apologize to your teacher, ask your teacher for information about next week's work.
+
+Sample Answer:
+Dear Teacher,
+I am sorry but I will be absent from class next week because I have to go to the hospital. Please forgive me. Can you tell me what homework I need to do for the next lesson?
+Thanks,
+[Your Name]
+
+[TEST 1 - PART 3]
+Type: Writing Task
+Context: You recently did a homework project about life in Britain, and your penfriend Judy helped you by sending some information. Write an email to Judy. In your email, you should: thank her for her help, explain which information was most useful to you, say what your teacher thought about your project.
+
+Sample Answer:
+Hi Judy,
+Thanks for your help with my project regarding life in Britain. The information about British food was the most useful to me. My teacher thought it was great and gave me a very high score.
+Write soon,
+[Your Name]

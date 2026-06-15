@@ -1,0 +1,148 @@
+[TEST 1 - PART 1]
+Context: Read the following passage. Choose the best word for each space. For 8 Questions (questions 1-8), choose the correct letter (A, B or C). --- The Atacama Desert in Chile is (1)_______ as the driest place on Earth. It is (2)_______ 1,000 kilometres in length, lying between the Pacific Ocean and the Andes mountains. Under a centimeter of rain falls annually, and the centre is so dry (3)_______ scientists have never recorded (4)_______ rain there. Over a million people actually live in the Atacama today. Most live on the coast, which is also home to teams of astronomers (5)_______ are there to take advantage of the clear skies. In the north, farmers grow tomatoes with water they have collected from underground rocks. However, for (6)_______ who have their farms on higher ground, the water sometimes comes from melting snow. People generally seem to lack knowledge (7)_______ what the desert has to offer, but in fact, there is plenty to do - from seeing the amazing natural sights to playing golf, one of the more recent activities (8)_______ tourists to the region.
+
+Question 1: (1)
+A. learnt
+B. known
+C. called
+Correct: B
+
+Question 2: (2)
+A. almost
+B. most
+C. many
+Correct: A
+
+Question 3: (3)
+A. as
+B. that
+C. when
+Correct: B
+
+Question 4: (4)
+A. any
+B. no
+C. some
+Correct: A
+
+Question 5: (5)
+A. who
+B. which
+C. where
+Correct: A
+
+Question 6: (6)
+A. those
+B. these
+C. them
+Correct: A
+
+Question 7: (7)
+A. at
+B. in
+C. about
+Correct: C
+
+Question 8: (8)
+A. arriving
+B. attracting
+C. arranging
+Correct: B
+
+[TEST 1 - PART 2]
+Type: Matching
+Context: Which notice (A-J) says this (9-16)? For questions 9-16, choose the correct letter. --- A. Zoo shop - Great prices on all animal books --- B. Meet the penguins! 2p.m. / 6p.m. Only 6 tickets available for each time --- C. Spend a day with elephants or giraffes - £85, Adults only --- D. Monkey house closed until next June --- E. Fish from South America - Children - please do not hit the glass --- F. Playground - For children aged 3-11 only - £2.50 per child --- G. Birthday parties at the Zoo - For prices, visit reception or go online --- H. Alton Zoo - The monkeys are fed daily at 9.00 a.m - Visitors are welcome to watch --- I. WARNING - Be aware of poisonous snakes! --- J. Please do not feed the monkeys. If you have suitable food, give it to the guard on duty.
+
+Question 9: Visitors can see how the monkeys are fed at a fixed time.
+Correct: H
+
+Question 10: For this price, you can get close to some animals.
+Correct: C
+
+Question 11: It is not safe to be close to these animals.
+Correct: I
+
+Question 12: There are two ways to get information about this.
+Correct: G
+
+Question 13: This activity is for a small group of people.
+Correct: B
+
+Question 14: This place isn't for adults or teenagers.
+Correct: F
+
+Question 15: It is not possible to see these animals today.
+Correct: D
+
+Question 16: You can buy cheap books on animals here.
+Correct: A
+
+[TEST 1 - PART 3]
+Type: Fill in the blank
+Context: Read the notice and the email. Fill in Paulo's notes with the correct information. The information should be NO MORE THAN THREE words. --- [LEFT COLUMN] --- NOTICE --- Liston Sports Centre --- After-school swimming lessons --- 4 p.m. to 5 p.m. daily --- Tom is teaching the over 18s this term, so Julie is teaching these classes: --- Level 1 - Monday --- Level 2 - Tuesday --- Level 3 - Wednesday --- Level 4 - Thursday --- Level 5 - Friday --- Prices: --- Ages 13-14: €65 --- Ages 15-18: €85 --- [RIGHT COLUMN] --- EMAIL --- From: Suli --- To: Paulo --- Thanks for booking our swimming lessons! We were level 3 last term so we'll be level 4 now, and we've both turned 15, which means it's a bit more expensive. Don't forget Lena can't come this time, so there'll be two of us instead of three.
+
+Question 17: Place
+Correct: Liston Sports Centre
+
+Question 18: Level
+Correct: 4
+
+Question 19: Time lesson starts
+Correct: 4 p.m.
+
+Question 20: Price
+Correct: €85
+
+Question 21: Day
+Correct: Thursday
+
+Question 22: Name of our teacher
+Correct: Julie
+
+Question 23: Number of people
+Correct: 2
+
+[TEST 1 - PART 4]
+Context: Read the following passage and choose A, B or C to answer the questions. Caroline Benson talks about her first TV role. --- I never expected to spend some of my first year at university filming The Finnegans. I'd only ever acted at school, but I'd loved the book since I was eleven. My grandmother used to say I was just like Polly Finnegan, and I always imagined myself playing her. --- I'd taken a year off to go travelling before university. While I was in Chile, my mother emailed me to say there were plans to turn the book into a TV drama. I knew I had to go for the part. --- She was surprised at first, but sent my photograph to the director and persuaded him to meet me. I flew back and got the part. --- The outdoor filming started a week into term, so I got permission from the university to be away for three weeks. Once I was back at university, I got up at 6.00 am to write the essays I'd missed. I didn't tell my university friends, but they found out and thought it was great. --- It was an amazing experience - I'm so lucky. After university, I definitely want to make acting my career. I'm not from an acting family, though my grandfather was an opera singer. I've tried for other TV parts but haven't got any yet. The director says it's hard work. --- I don't know how I managed it all, because I had a full social life too. When filming finished, I hardly knew what to do. I've since appeared in two college plays. Unfortunately, I haven't been home much and now my first year at university is over, I'm off to Greece for the summer with friends.
+
+Question 24: Who informed Caroline about the filming of The Finnegans?
+A. her grandmother
+B. her mother
+C. her friends
+Correct: B
+
+Question 25: Why did Caroline decide to try for a part in The Finnegans?
+A. She thought the book would make a great TV drama.
+B. She agreed with her grandmother that she should apply.
+C. She felt she was perfect for the part of Polly.
+Correct: C
+
+Question 26: What does Caroline say about her mother?
+A. She encouraged Caroline to keep travelling.
+B. She felt Caroline would be a good actor.
+C. She helped Caroline to get the part.
+Correct: C
+
+Question 27: How did Caroline find time to do the filming?
+A. She delayed going to university until filming was over.
+B. She took time off and did her college work later.
+C. She asked her friends to help with her essays.
+Correct: B
+
+Question 28: How long did it take Caroline to play the part?
+A. a week
+B. three weeks
+C. a year
+Correct: B
+
+Question 29: What does Caroline want to be in the future?
+A. an actor
+B. a singer
+C. a social worker
+Correct: A
+
+Question 30: What is the main idea of the passage?
+A. Caroline advised students to finish studying before taking up acting.
+B. Caroline described how pleased she was about this opportunity to act.
+C. Caroline explained why she has always wanted to be an actor.
+Correct: B

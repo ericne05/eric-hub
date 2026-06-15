@@ -1,0 +1,135 @@
+[TEST 5 - PART 1]
+Audio: test_5_part_1.mp3
+Question 1: How much did the dress cost?
+A. £50
+B. £35
+C. £70
+Correct: B
+
+Question 2: What type of accommodation does the woman live in?
+A. In a flat
+B. In a two-floor house
+C. In a one-floor house
+Correct: C
+
+Question 3: What did the man get for Christmas?
+A. a sweater
+B. trousers
+C. a T-shirt
+Correct: B
+
+Question 4: What is the weather like?
+A. sunny
+B. snowy
+C. rainy
+Correct: C
+
+Question 5: What subject does the boy like best?
+A. art
+B. history
+C. geography
+Correct: C
+
+[TEST 5 - PART 2]
+Audio: test_5_part_2.mp3
+Question 6: Who is the woman's brother?
+A. He wears glasses and has a beard.
+B. He doesn't wear glasses and has a beard.
+C. He wears glasses and doesn't have a beard.
+Correct: A
+
+Question 7: How many pets does David have?
+A. a kitten, a dog, a rabbit
+B. a kitten and a goldfish
+C. a kitten, a dog, a rabbit and a goldfish
+Correct: B
+
+Question 8: What is their flight number?
+A. BA4328
+B. BA4728
+C. BA4568
+Correct: B
+
+Question 9: What did the woman order?
+A. a hamburger
+B. a hot dog and chips
+C. coke and chips
+Correct: A
+
+Question 10: Which shirt will the man wear?
+A. a long-sleeved shirt with no stripes
+B. a striped short-sleeved shirt
+C. a striped long-sleeved shirt
+Correct: C
+
+[TEST 5 - PART 3]
+Audio: test_5_part_3.mp3
+Type: Fill in the blank
+Context: LUNCH IN BOURNEMOUTH
+
+Question 11: Tourists free until (... o'clock)
+Correct: 10
+
+Question 12: Fast food restaurants (... near the)
+Correct: beach
+
+Question 13: Seafood meal costs (£...)
+Correct: 15
+
+Question 14: Name of hotel
+Correct: High
+
+Question 15: If you don't want to sit down, buy (... and chips)
+Correct: chicken
+
+[TEST 5 - PART 4]
+Audio: test_5_part_4.mp3
+Question 16: The size of the sofa is
+A. 1 metre 85.
+B. 1 metre 95.
+C. 2 metres.
+Correct: C
+
+Question 17: The only sofa in the shop is
+A. red.
+B. green.
+C. black.
+Correct: A
+
+Question 18: The sofa costs
+A. £590.
+B. £600.
+C. £631.
+Correct: B
+
+Question 19: The driver can take the sofa on
+A. Monday.
+B. Wednesday.
+C. Thursday.
+Correct: C
+
+Question 20: The shop closes
+A. 5:45
+B. 7:00
+C. 7:15
+Correct: B
+
+[TEST 5 - PART 5]
+Audio: test_5_part_5.mp3
+Type: Fill in the blank
+Context: CAMBRIDGE SPORTS CENTRE - Monday-Friday opening hours: 8.00 a.m. to 10.00 p.m.
+
+Question 21: Weekend opening hours
+Correct: 10 a.m to 5 p.m
+
+Question 22: Sports include: basketball, tennis, and
+Correct: squash
+
+Question 23: Six-month season ticket costs (£...)
+Correct: 50
+
+Question 24: Centre reopens on (... Monday)
+Correct: 12th
+
+Question 25: New telephone number (Cambridge ...)
+Correct: 724391

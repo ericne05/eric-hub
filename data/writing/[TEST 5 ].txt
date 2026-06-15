@@ -1,0 +1,38 @@
+[TEST 5 - PART 1]
+Type: Sentence Building
+Context: Rewrite the following sentences using the given words.
+
+Question 1: The hairdresser/ last/ cut/ hair/ six/ month/ ago.
+Answer: The hairdresser last cut my hair six months ago.
+
+Question 2: When/ I/ phone/ she/ ask/ what time/ I/ want/ go.
+Answer: When I phoned, she asked what time I wanted to go.
+
+Question 3: My brother/ cut/ hair/ himself.
+Answer: My brother cuts his hair himself.
+
+Question 4: He/ say/ hairdresser/ too/ expensive/ him.
+Answer: He says the hairdresser is too expensive for him.
+
+Question 5: Unfortunately/ he/ not/ do/ it/ very/ good.
+Answer: Unfortunately, he does not do it very well.
+
+[TEST 5 - PART 2]
+Type: Writing Task
+Context: Your English friend has asked you to play tennis on Saturday, but you can't. Write an email to your friend. In your note, you should: apologize, say why you can't play tennis, suggest another time to play.
+
+Sample Answer:
+Hi,
+I am sorry, but I can't play tennis on Saturday. I have to study for my math exam. Can we play next Sunday instead? I am free all day. Let me know if that is okay.
+Best,
+[Your Name]
+
+[TEST 5 - PART 3]
+Type: Writing Task
+Context: An English friend of yours called Hannah is visiting your town on Saturday. Write an e-mail to Hannah. In your e-mail, you should: invite Hannah to meet you, arrange where you will meet, ask what time she is arriving.
+
+Sample Answer:
+Hi Hannah,
+I am happy you are visiting my town. I would like to invite you to meet me at the central café. We can have a drink there. What time are you arriving on Saturday?
+See you,
+[Your Name]

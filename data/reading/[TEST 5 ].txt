@@ -1,0 +1,148 @@
+[TEST 5 - PART 1]
+Context: Read the following passage. Choose the best word for each space. For 8 Questions (questions 1-8), choose the correct letter (A, B or C). --- Example: Susan is (O)........, TV now. O. A. watching B. looking C. seeing --- Homer, Marge, Bart, Lisa and Maggie Simpson are America's favourite family. This programme has been on television (1) ......... 1989 and is now shown (2) ......... 94 different countries. Why do people love this family so (3) .........? Perhaps it is because they (4) ......... them. The Simpsons do things that (5) ......... people do. For example, at the beginning of each programme, they all sit down to watch television. Several famous people have been on the show, from singers and actors (6) ......... Professor Stephen Hawking, the world famous scientist from Cambridge University. He loved being on the show and so for (7) ......... Millennium New Year party, all the guests (8) ......... to dress like people in The Simpsons. He went to the party as Stephen Hawking!
+
+Question 1: (1) - "has been on television ___ 1989"
+A. by
+B. for
+C. since
+Correct: C (since + năm cụ thể với present perfect)
+
+Question 2: (2) - "shown ___ 94 different countries"
+A. with
+B. in
+C. at
+Correct: B (in + countries)
+
+Question 3: (3) - "love this family so ___"
+A. more
+B. most
+C. much
+Correct: C (so much = rất nhiều)
+
+Question 4: (4) - "because they ___ them"
+A. understand
+B. understanding
+C. understands
+Correct: A (they + understand, không thêm s)
+
+Question 5: (5) - "things that ___ people do"
+A. every
+B. many
+C. lots
+Correct: B (many people = nhiều người)
+
+Question 6: (6) - "from singers and actors ___ Professor"
+A. about
+B. to
+C. till
+Correct: B (from...to = từ...đến)
+
+Question 7: (7) - "for ___ Millennium New Year party"
+A. their
+B. the
+C. her
+Correct: B (the + tên sự kiện cụ thể)
+
+Question 8: (8) - "all the guests ___ to dress"
+A. had
+B. must
+C. ought
+Correct: A (had to = phải)
+
+[TEST 5 - PART 2]
+Type: Matching
+Context: Which notice (A-J) says this (9-16)? For questions 9-16, choose the correct letter. --- EXAMPLE: 0. You won't get anything to eat here. K. Sorry! Restaurant closed --- A. DO NOT GO NEAR THE RUINS - DANGER OF FALLING STONE --- B. No boats to Black Island - Because of bad weather --- C. Museum Activity Day - Saturday 10am – 3pm - Children aged between 8 and 15 --- D. Song books and CDs on sale after the show --- E. Today's weather: Sunny, dry - Temperature 30o --- F. The bag is not a toy! Keep away from children --- G. Supermarket now open - 24 HOURS A DAY --- H. CITY TOURS - Every 30 minutes - Last tour 6pm --- I. No swimming when the red flag is flying. --- J. FOREIGN MONEY CHANGED HERE - We give the best rates!
+
+Question 9: It is not safe to play here.
+Correct: A
+
+Question 10: You won't need a raincoat today.
+Correct: E
+
+Question 11: You can buy some dollars here at good prices.
+Correct: J
+
+Question 12: This is meant for young people.
+Correct: C
+
+Question 13: You can go on a trip every half an hour.
+Correct: H
+
+Question 14: You cannot travel here today.
+Correct: B
+
+Question 15: You can visit this place at any time.
+Correct: G
+
+Question 16: You can buy some music when the performance finishes.
+Correct: D
+
+[TEST 5 - PART 3]
+Type: Fill in the blank
+Context: Read the notice and the email. Fill in the form with the correct information. The information should be NO MORE THAN THREE words. --- [LEFT COLUMN] --- Airport Car Rental --- Daniela --- Dear Sir, --- I will fly to Toronto on 3 July from my home country, Brazil, with my husband Paulo. I want to rent a car for two weeks. I would prefer a German car. I am 26 years old and I learnt to drive eight years ago. Thank you. --- Nara Bandeira --- [RIGHT COLUMN] --- Airport Car Rental - Booking form
+
+Question 17: Full name of driver
+Correct: Nara Bandeira
+
+Question 18: Nationality
+Correct: Brazil
+
+Question 19: How long have you had a driving license?
+Correct: 8 years
+
+Question 20: Names of any passengers
+Correct: Paulo
+
+Question 21: Which airport will you arrive at
+Correct: Toronto
+
+Question 22: Date of arrival
+Correct: 3 July
+
+Question 23: How long will you rent?
+Correct: 2 weeks
+
+[TEST 5 - PART 4]
+Context: Read the following passage. Choose A, B or C to answer the questions. --- A school for stars --- This is the school from the television show Beverly Hills 90210. Most of the students come from rich families and some of them have famous parents, people from Hollywood sometimes go to Beverly Hills High to look for future actors. --- School life --- There are lots of good things about going to this school: there are two theatres, a television studio, and a radio station. The students make TV programmes and films in their drama classes. The biggest event of the school year is the school dance, or 'prom' Everyone at Beverly Hills High travels to the prom in a limousine! --- Travelling to school --- In California, children can learn to drive three months before their sixteenth birthday. Lots of students at Beverly Hills High have their own cars but they have to pay a lot of money to park their cars in the school car park. --- What the kids think --- Most kids enjoy going to Beverly Hills High because it is fun and there is lots to do. But some kids do not like the school if their parents don't have enough money to buy them a fast car and expensive clothes.
+
+Question 24: Beverly Hills 90210 is
+A. a school
+B. a TV show
+C. a club
+Correct: B (passage nói "the television show Beverly Hills 90210")
+
+Question 25: The students are usually
+A. actors
+B. rich
+C. famous
+Correct: B (passage nói "students come from rich families")
+
+Question 26: Beverly Hills High doesn't have
+A. a radio station
+B. a cinema
+C. a TV studio
+Correct: B (có theatres, TV studio, radio station - KHÔNG có cinema)
+
+Question 27: In drama classes students
+A. make radio programmes
+B. do dance shows
+C. make TV programmes
+Correct: C (passage nói "make TV programmes and films in their drama classes")
+
+Question 28: The prom is
+A. the most important event
+B. a dance
+C. a limousine
+Correct: B (passage nói "the school dance, or 'prom'")
+
+Question 29: In California, children can learn to drive
+A. before they are 16
+B. after they are 16
+C. when they are 16
+Correct: A (passage nói "three months before their sixteenth birthday")
+
+Question 30: Some kids don't like going to Beverly Hills High because
+A. it isn't fun
+B. they haven't got a fast car
+C. there's nothing to do
+Correct: B (passage nói "if their parents don't have enough money to buy them a fast car and expensive clothes")
